@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-contract Demo {
+contract DataTypes {
     // booleans
     bool public myBool; // by default = false
     bool public myOtherBool = true; 

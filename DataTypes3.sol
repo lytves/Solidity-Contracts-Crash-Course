@@ -41,7 +41,7 @@ contract DataTypes3 {
         currentStatus = Status.Paid;
     }
 
-    function gsetDelivered() public {
+    function setDelivered() public {
         currentStatus = Status.Delivered;
     }
 

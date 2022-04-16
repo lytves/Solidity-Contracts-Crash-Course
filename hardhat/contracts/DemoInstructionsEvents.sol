@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-contract DemoEvents {
+contract DemoFunctionsEvents {
     // require
     // revert
     // assert
@@ -15,6 +15,10 @@ contract DemoEvents {
         owner = msg.sender;
     }
 
+    receive() external payable {
+        pay();
+    }
+    
     // =======================================
     function pay() public payable {
         // emit the event

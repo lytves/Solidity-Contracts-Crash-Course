@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-contract DemoFunctionsEvents {
+contract DemoInstructionsEvents {
     // require
     // revert
     // assert

@@ -5,4 +5,3 @@ Based on the youtube crash course [Solidity and Ethereum](https://www.youtube.co
 ### Used:
 + [Solidity Documentation](https://docs.soliditylang.org/en/latest/index.html)
 + [Hardhat a development environment](https://hardhat.org/getting-started/)
-+ 
